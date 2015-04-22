@@ -1,0 +1,9 @@
+name: HelpHoller
+main: com.infinity.help.main.HelpHoller
+version: 1.0
+author: xXInfinityXx
+description: HelpHoller is a custom plugin made for XdarkbeastX. It's command, "/holler <message>", "hollers" out a message to players with the permission to recieve "hollers".
+commands:
+  holler:
+    description: Main command for HelpHoller
+    usage: /<command> 
